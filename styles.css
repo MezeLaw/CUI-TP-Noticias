@@ -3,7 +3,7 @@
 }
 
 .seccion {
-    margin-top: 50px;
+    margin-top: 100px;
     margin-left: 50px;
 }
 
@@ -34,6 +34,7 @@ h2 {
     margin-left: 50px !important;
     margin-right: 50px !important;
     margin-bottom: 50px !important;
+    margin-top: 60px !important;
 }
 
 h3 {
