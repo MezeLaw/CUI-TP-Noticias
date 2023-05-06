@@ -1,0 +1,64 @@
+#secciones {
+    background-color: green;
+}
+
+.seccion {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.seccion-card {
+    margin-bottom: 5px;
+}
+  
+.navbar-brand img {
+    max-height: 50px;
+    max-width: 100%;
+}
+
+#menu {
+    margin-bottom: 20px;
+}
+ 
+.cuerpo-noticia {
+    font-size: 25px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: justify;
+}
+
+h2 {
+    font-size: 60px !important;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+h3 {
+    font-size: 35px !important;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.card-destacada {
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.container {
+    text-align: center;
+}
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-img-top {
+    max-height: 300px;
+}
