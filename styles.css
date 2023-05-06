@@ -61,4 +61,13 @@ img {
 
 .card-img-top {
     max-height: 300px;
+} 
+
+figure {
+    text-align: center;
+}
+  
+figcaption {
+    font-size: 16px;
+    color: #666;
 }
