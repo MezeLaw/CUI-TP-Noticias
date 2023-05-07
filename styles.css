@@ -21,7 +21,6 @@
 }
  
 .cuerpo-noticia {
-    font-size: 25px;
     margin-top: 60px;
     margin-bottom: 60px;
     margin-left: 70px;
@@ -30,7 +29,6 @@
 }
 
 h2 {
-    font-size: 60px !important;
     margin-left: 50px !important;
     margin-right: 50px !important;
     margin-bottom: 50px !important;
@@ -38,7 +36,7 @@ h2 {
 }
 
 h3 {
-    font-size: 35px !important;
+     
     margin-left: 50px !important;
     margin-right: 50px !important;
     margin-bottom: 50px !important;
