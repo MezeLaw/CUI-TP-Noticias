@@ -4,7 +4,7 @@
 
 .seccion {
     margin-top: 100px;
-    margin-left: 250px;
+    margin-left: 40px;
 }
 
 .seccion-card {
@@ -23,27 +23,28 @@
 .cuerpo-noticia {
     margin-top: 60px;
     margin-bottom: 60px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 40px;
+    margin-right: 40px;
     text-align: justify;
 }
 
 h2 {
-    margin-left: 250px !important;
-    margin-right: 250px !important;
+    margin-left: 40px !important;
+    margin-right: 40px !important;
     margin-bottom: 50px !important;
     margin-top: 20px !important;
 }
 
 h3 {
-    margin-left: 250px !important;
-    margin-right: 250px !important;
+     
+    margin-left: 40px !important;
+    margin-right: 40px !important;
     margin-bottom: 50px !important;
 }
 
 .card-destacada {
-    margin-left: 250px !important;
-    margin-right: 250px !important;
+    margin-left: 40px !important;
+    margin-right: 40px !important;
     margin-bottom: 50px !important;
 }
 
